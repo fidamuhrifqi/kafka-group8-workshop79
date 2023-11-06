@@ -11,4 +11,7 @@ public class OrderEvent {
     private String message;
     private String status;
     private Order order;
+
+    //FIDA KASEP BANGET EMANG
+    //RAJIN MANDI LAGI
 }
